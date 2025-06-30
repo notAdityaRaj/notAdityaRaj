@@ -19,8 +19,8 @@ Apart from technical side, I enjoy gaming, and sketching.
 ![Static Badge](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ## 📲🤙 Connect with me!
-GitHub:https://github.com/notAdityaRaj
-Linkedin:https://www.linkedin.com/in/aditya-s-m/
+GitHub: https://github.com/notAdityaRaj
+Linkedin: https://www.linkedin.com/in/aditya-s-m/
 
 
 <!--

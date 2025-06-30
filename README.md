@@ -7,6 +7,7 @@
 Apart from technical side, I enjoy gaming, and sketching.
 
 ## 💪 Skills
+
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=MySQL&logoColor=white)
 ![python](https://github.com/user-attachments/assets/f2bd4bea-9c75-468e-82ad-a2b53ff0284b)
@@ -18,9 +19,9 @@ Apart from technical side, I enjoy gaming, and sketching.
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=white)
 
-## 📲🤙 Connect with me!
-GitHub: https://github.com/notAdityaRaj
-Linkedin: https://www.linkedin.com/in/aditya-s-m/
+## 📲🤙Connect with me!
+GitHub: https://github.com/notAdityaRaj  
+LinkedIn: https://www.linkedin.com/in/aditya-s-m/
 
 
 <!--
